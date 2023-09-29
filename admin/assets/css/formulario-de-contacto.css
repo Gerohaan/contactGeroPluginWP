@@ -1,0 +1,12 @@
+.mensaje-exito {
+    color: green;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 10px;
+}
+.mensaje-deneged{
+    color: red;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 10px;
+}
